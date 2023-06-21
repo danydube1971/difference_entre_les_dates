@@ -1,6 +1,8 @@
 # difference_entre_les_dates
 Calcule le nombres de jours entre deux dates en tenant des années bisextiles
 
+![Differences_dates](https://github.com/danydube1971/difference_entre_les_dates/assets/74633244/dec6a1c7-bafa-437a-ab8f-dbd061a1b2c8)
+
 
 Ce script Python permet de calculer la différence entre deux dates que l'utilisateur entre manuellement. Le script demande d'abord à l'utilisateur 
 d'entrer une date de début et une date de fin au format JJ/MM/AAAA. Ensuite, le script utilise le module *datetime* pour calculer la différence entre les deux dates 
